@@ -1,5 +1,7 @@
 # hello-world
+
 my very 1st repository 
+
 Hey everyone, beginning my journey in learning how to write code. Right now my focus is on Python, Java, and C.
 Looking forward to learning everything I can. I have a few project ideas that I want to code in Python! (Got the idea from knightlab.com)
 link https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
